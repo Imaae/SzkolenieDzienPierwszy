@@ -49,6 +49,26 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab20 - KlasaMetody", "lab2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab20 - KlasaMetody(cwiczenie)", "lab20 - KlasaMetody(cwiczenie)\lab20 - KlasaMetody(cwiczenie).csproj", "{EE0B4914-5A94-43FF-93CB-28E3B7505DFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab21 - KlasaKonstruktor", "lab21 - KlasaKonstruktor\lab21 - KlasaKonstruktor.csproj", "{8BCC4C90-B9DC-486C-A4EB-4237FE47CC1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab21 - KlasaKonstruktor(cwiczenie1)", "lab21 - KlasaKonstruktor(cwiczenie)\lab21 - KlasaKonstruktor(cwiczenie1).csproj", "{0308C49C-43CA-475A-8FDD-61915AD35850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab21 - KlasaKonstruktor(cwiczenie2)", "lab21 - KlasaKonstruktor(cwiczenie2)\lab21 - KlasaKonstruktor(cwiczenie2).csproj", "{41A815FC-1A04-41B6-92C5-840BC75146DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab21 - KlasaKonstruktor(cwiczenie3)", "lab21 - KlasaKonstruktor(cwiczenie3)\lab21 - KlasaKonstruktor(cwiczenie3).csproj", "{FC60B972-3721-40EA-A0E6-2989C8C2AA5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab22 - KlasaWlasciwosci", "lab22 - KlasaWlasciwosci\lab22 - KlasaWlasciwosci.csproj", "{26977E92-40B4-46A8-80A0-B6FAE58262E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab22 - KlasaWlasciwosci(cwiczenie)", "lab22 - KlasaWlasciwosci(cwiczenie)\lab22 - KlasaWlasciwosci(cwiczenie).csproj", "{AB7FA033-4F8A-4A06-A30B-413AC2907695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab23- KlasaDziedziczenie", "lab23- KlasaDziedziczenie\lab23- KlasaDziedziczenie.csproj", "{CC26554F-2902-4B60-9B65-920746F03630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab24 - KlasaAbstrakcyjna", "lab24 - KlasaAbstrakcyjna\lab24 - KlasaAbstrakcyjna.csproj", "{12993B2B-EF6A-47F0-B61C-DFBF70E30E91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab24 - KlasaAbstrakcyjna(cwiczenie)", "lab24 - KlasaAbstrakcyjna(cwiczenie)\lab24 - KlasaAbstrakcyjna(cwiczenie).csproj", "{38C87031-D9D4-465F-A112-A58B87FD50D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab25 - KlasaStatyczna", "lab25 - KlasaStatyczna\lab25 - KlasaStatyczna.csproj", "{F3E8C8B5-C2FF-402A-90A1-90AA1DDD9861}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +167,46 @@ Global
 		{EE0B4914-5A94-43FF-93CB-28E3B7505DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE0B4914-5A94-43FF-93CB-28E3B7505DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE0B4914-5A94-43FF-93CB-28E3B7505DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCC4C90-B9DC-486C-A4EB-4237FE47CC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCC4C90-B9DC-486C-A4EB-4237FE47CC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCC4C90-B9DC-486C-A4EB-4237FE47CC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCC4C90-B9DC-486C-A4EB-4237FE47CC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0308C49C-43CA-475A-8FDD-61915AD35850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0308C49C-43CA-475A-8FDD-61915AD35850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0308C49C-43CA-475A-8FDD-61915AD35850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0308C49C-43CA-475A-8FDD-61915AD35850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41A815FC-1A04-41B6-92C5-840BC75146DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A815FC-1A04-41B6-92C5-840BC75146DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A815FC-1A04-41B6-92C5-840BC75146DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A815FC-1A04-41B6-92C5-840BC75146DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC60B972-3721-40EA-A0E6-2989C8C2AA5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC60B972-3721-40EA-A0E6-2989C8C2AA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC60B972-3721-40EA-A0E6-2989C8C2AA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC60B972-3721-40EA-A0E6-2989C8C2AA5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26977E92-40B4-46A8-80A0-B6FAE58262E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26977E92-40B4-46A8-80A0-B6FAE58262E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26977E92-40B4-46A8-80A0-B6FAE58262E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26977E92-40B4-46A8-80A0-B6FAE58262E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7FA033-4F8A-4A06-A30B-413AC2907695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7FA033-4F8A-4A06-A30B-413AC2907695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7FA033-4F8A-4A06-A30B-413AC2907695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7FA033-4F8A-4A06-A30B-413AC2907695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC26554F-2902-4B60-9B65-920746F03630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC26554F-2902-4B60-9B65-920746F03630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC26554F-2902-4B60-9B65-920746F03630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC26554F-2902-4B60-9B65-920746F03630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12993B2B-EF6A-47F0-B61C-DFBF70E30E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12993B2B-EF6A-47F0-B61C-DFBF70E30E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12993B2B-EF6A-47F0-B61C-DFBF70E30E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12993B2B-EF6A-47F0-B61C-DFBF70E30E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C87031-D9D4-465F-A112-A58B87FD50D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C87031-D9D4-465F-A112-A58B87FD50D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C87031-D9D4-465F-A112-A58B87FD50D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C87031-D9D4-465F-A112-A58B87FD50D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E8C8B5-C2FF-402A-90A1-90AA1DDD9861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E8C8B5-C2FF-402A-90A1-90AA1DDD9861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E8C8B5-C2FF-402A-90A1-90AA1DDD9861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E8C8B5-C2FF-402A-90A1-90AA1DDD9861}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
