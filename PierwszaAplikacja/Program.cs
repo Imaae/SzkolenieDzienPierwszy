@@ -10,6 +10,7 @@ namespace PierwszaAplikacja
     {
         static void Main(string[] args)
         {
+            //https://github.com/RafCzar/SzkolenieDzienPierwszy
             Console.WriteLine("Hello World!");
             Console.ReadKey();
         }
